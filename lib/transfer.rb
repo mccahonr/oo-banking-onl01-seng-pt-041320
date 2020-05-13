@@ -26,7 +26,6 @@ class Transfer
       @staus = "rejected"
       "Transaction rejected. Please check your account balance."
     end
-
   end
 
 
